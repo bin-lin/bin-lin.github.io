@@ -1,0 +1,155 @@
+.navbar {
+    background-color: #2196F3;
+}
+
+#navbar-full .navbar{
+    border-radius: 0 !important;
+    margin-bottom: 15px;
+    z-index: 2;
+}
+
+.logo-container {
+    padding-left: 10px;
+}
+
+.logo-container .logo{
+    overflow: hidden;
+    border-radius: 50%;
+    border: 1px solid #333333;
+    width: 50px;
+    float: left;
+}
+
+.logo-container .brand{
+    font-size: 16px;
+    color: #FFFFFF;
+    line-height: 18px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 7px;
+    width: 70px;
+    height: 40px;
+    text-align: left;
+}
+.logo-container .brand-material{
+    font-size: 18px;
+    margin-top: 15px;
+    height: 25px;
+    width: auto;
+}
+.logo-container .logo img{
+    width: 100%;
+}
+
+
+.logo-noshow{
+    display: none;
+}
+
+.navbar-small .logo-container .brand{
+    color: #333333;
+}
+
+.header{
+    background-image: url("../img/bg.jpg");
+    transform: translate3d(0px, 0px, 0px);"
+}
+
+.wrapper > .header{
+    height: 480px;
+    padding-top: 205px;
+    background-size: cover;
+    background-position: center center;
+}
+
+.title{
+    color: #FFFFFF;
+}
+
+.title{
+    margin-top: 30px;
+    margin-bottom: 25px;
+    min-height: 32px;
+}
+.title.text-center{
+    margin-bottom: 50px;
+}
+
+.navbar-default.navbar-small .logo-container .brand{
+    color: #333333;
+}
+.navbar-transparent.navbar-small .logo-container .brand{
+    color: #FFFFFF;
+}
+.navbar-default.navbar-small .logo-container .brand{
+    color: #333333;
+}
+
+.presentation .front, .presentation .front:after, .presentation .front .btn, .logo-container .logo, .logo-container .brand{
+    -webkit-transition: all .2s;
+    -moz-transition: all .2s;
+    -o-transition: all .2s;
+    transition: all .2s;
+}
+
+.header .brand{
+    color: #ffffff;
+
+}
+
+.seperator {
+    height: 1px;
+    width: 100px;
+    background: #FFFFFF;
+    margin-top: 18px;
+    left: 15px;
+}
+
+.brand h4{
+    margin-top: 0px;
+}
+
+.brand .subtitle{
+    margin-top: 4px;
+}
+
+.table{
+    margin: 0px;
+    width: 100%;
+}
+
+.label.label-info {
+    background-color: #2196F3;
+}
+
+.paper_title a, .paper_title a:hover, .paper_title a:focus {
+     color: #2196F3;
+     font-weight: 500;
+ }
+
+
+
+.section a, .section a:hover, .section a:focus {
+    color: #2196F3;
+    font-weight: 400;
+}
+
+.section h2{
+    color: #2196F3;
+}
+
+.section{
+    font-size: medium;
+}
+
+.table .section{
+}
+
+.section-silver{
+    background: #EEEEEE;
+}
+
+.table a, .table a:hover, .table a:focus {
+    color: #000000;
+    font-weight: 400;
+}
