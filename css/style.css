@@ -286,8 +286,12 @@ li.timeline-item::before {
   color: darkslategray;
 }
 
+.card {
+	margin-top: 10px;
+}
+
 .publication-card {
-  margin: 10px;
+  margin-bottom: 5px;
 }
 
 .publication-card-title {
