@@ -60,7 +60,7 @@ img.svg{
 	height: 15px;
 }
 .svg.custom{
-	fill: none;
+	fill: black;
 }
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color: #7e7e7e;
