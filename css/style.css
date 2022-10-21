@@ -2099,3 +2099,7 @@ body.modal{
 	text-decoration: none;
  	color: inherit; 
 }
+
+.student a:hover, a:active, a:link, a:visited {
+	color: #000;
+}
