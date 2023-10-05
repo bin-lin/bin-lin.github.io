@@ -2103,3 +2103,8 @@ body.modal{
 .student a:hover, a:active, a:link, a:visited {
 	color: #000;
 }
+
+.award{
+	color: red;
+	font-weight: bold;
+}
